@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek JD Writer"
+  short_description: "Write mission-led JDs with compelling team missions"
+  default_prompt: "Use $deepseek-jd to draft a mission-driven JD for this team and role."
