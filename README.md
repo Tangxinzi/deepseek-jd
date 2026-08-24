@@ -2,6 +2,8 @@
 
 一个用于中文职位描述（JD）和团队使命写作的 Codex Skill。它学习的是 DeepSeek 示例背后的写作决策，而不是复制原文：让使命有人真实关心的处境、有技术细节、有明确的未完成问题，也让候选人看见自己可以承担的真实工作。
 
+更多查看 👉👉👉 [AI × HR 应用实践](https://my.feishu.cn/docx/PaASdKSVFoKFsXxF3mvcukTAnRc)。
+
 ## 快速使用
 
 在 Codex 中直接调用：
